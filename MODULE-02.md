@@ -6,6 +6,12 @@
 
 ---
 
+## Description
+
+Ce module vous guide dans l'installation et la configuration initiale d'ESXi, l'hyperviseur bare-metal de VMware. Vous apprendrez à préparer le matériel, installer l'hyperviseur, configurer le réseau de base et accéder à l'interface de gestion.
+
+---
+
 ## Objectifs pédagogiques
 
 À la fin de ce module, vous serez capable de :

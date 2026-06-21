@@ -6,6 +6,12 @@
 
 ---
 
+## Description
+
+Ce module traite de la gestion du stockage dans vSphere. Vous découvrirez les différents types de datastores (VMFS, NFS, iSCSI, vSAN), leur configuration et leurs cas d'usage respectifs pour optimiser le stockage de vos machines virtuelles.
+
+---
+
 ## Objectifs pédagogiques
 
 À la fin de ce module, vous serez capable de :

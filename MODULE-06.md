@@ -6,6 +6,12 @@
 
 ---
 
+## Description
+
+Ce module présente les fonctionnalités avancées de clustering : High Availability (HA) pour la tolérance aux pannes et Distributed Resource Scheduler (DRS) pour l'équilibrage automatique des charges. Vous apprendrez à configurer ces services essentiels pour la production.
+
+---
+
 ## Objectifs pédagogiques
 
 À la fin de ce module, vous serez capable de :

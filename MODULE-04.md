@@ -6,6 +6,12 @@
 
 ---
 
+## Description
+
+Ce module explore la configuration réseau dans vSphere. Vous apprendrez à configurer des vSwitch standards et distribués, gérer les VLAN, configurer les adaptateurs VMkernel pour différents types de trafic et assurer la redondance réseau.
+
+---
+
 ## Objectifs pédagogiques
 
 À la fin de ce module, vous serez capable de :

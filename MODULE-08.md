@@ -6,6 +6,12 @@
 
 ---
 
+## Description
+
+Ce module aborde la sécurité de l'infrastructure vSphere. Vous apprendrez à configurer les rôles et permissions (RBAC), activer le Lockdown Mode, intégrer l'authentification Active Directory et auditer la sécurité de votre environnement.
+
+---
+
 ## Objectifs pédagogiques
 
 À la fin de ce module, vous serez capable de :

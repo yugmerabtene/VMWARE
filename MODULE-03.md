@@ -6,6 +6,12 @@
 
 ---
 
+## Description
+
+Ce module couvre le déploiement de vCenter Server, l'outil de gestion centralisée de l'infrastructure vSphere. Vous apprendrez à déployer l'appliance VCSA, ajouter des hôtes ESXi et organiser votre inventaire avec des datacenters et des clusters.
+
+---
+
 ## Objectifs pédagogiques
 
 À la fin de ce module, vous serez capable de :

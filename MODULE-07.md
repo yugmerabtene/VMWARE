@@ -6,6 +6,12 @@
 
 ---
 
+## Description
+
+Ce module vous enseignera les techniques de migration à chaud avec vMotion et Storage vMotion. Vous apprendrez également à créer des templates pour le déploiement rapide de machines virtuelles et à gérer les clones.
+
+---
+
 ## Objectifs pédagogiques
 
 À la fin de ce module, vous serez capable de :

@@ -6,6 +6,12 @@
 
 ---
 
+## Description
+
+Ce module pose les fondations de la virtualisation. Vous découvrirez les concepts clés, les différents types d'hyperviseurs et leur fonctionnement. Une introduction pratique vous permettra d'installer un hyperviseur de type 2 et de créer vos premières machines virtuelles.
+
+---
+
 ## Objectifs pédagogiques
 
 À la fin de ce module, vous serez capable de :

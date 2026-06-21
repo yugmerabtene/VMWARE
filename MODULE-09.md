@@ -6,6 +6,12 @@
 
 ---
 
+## Description
+
+Ce module couvre la supervision et l'optimisation des performances. Vous apprendrez à configurer des alertes, analyser les métriques de performance (CPU, mémoire, disque, réseau), utiliser les logs pour le troubleshooting et optimiser votre infrastructure.
+
+---
+
 ## Objectifs pédagogiques
 
 À la fin de ce module, vous serez capable de :
