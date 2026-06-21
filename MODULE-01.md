@@ -1,7 +1,6 @@
 # Module 1 : Introduction à la Virtualisation
 
 > **Auteur :** yugmerabtene
-> **Contact :** yug.merabtene@gmail.com
 > **Version :** 2.0
 > **Durée estimée :** 4 heures
 

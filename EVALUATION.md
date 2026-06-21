@@ -1,7 +1,6 @@
 # Évaluation du cours VMware vSphere
 
 > **Auteur :** yugmerabtene
-> **Contact :** yug.merabtene@gmail.com
 
 ---
 

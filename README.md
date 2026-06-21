@@ -1,7 +1,6 @@
 # Cours VMware vSphere
 
 > **Auteur :** yugmerabtene
-> **Contact :** yug.merabtene@gmail.com
 > **Version :** 2.0
 > **Dernière mise à jour :** 2026
 

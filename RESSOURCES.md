@@ -1,7 +1,6 @@
 # Ressources complémentaires
 
 > **Auteur :** yugmerabtene
-> **Contact :** yug.merabtene@gmail.com
 
 ---
 

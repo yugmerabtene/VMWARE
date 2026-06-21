@@ -1,7 +1,6 @@
 # Module 8 : Sécurité et Conformité
 
 > **Auteur :** yugmerabtene
-> **Contact :** yug.merabtene@gmail.com
 > **Version :** 2.0
 > **Durée estimée :** 3 heures
 

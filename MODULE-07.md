@@ -1,7 +1,6 @@
 # Module 7 : Migration et Mobilité
 
 > **Auteur :** yugmerabtene
-> **Contact :** yug.merabtene@gmail.com
 > **Version :** 2.0
 > **Durée estimée :** 3 heures
 
