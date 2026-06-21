@@ -1,6 +1,5 @@
 # Évaluation du cours VMware vSphere
 
-> **Auteur :** yugmerabtene
 
 ---
 

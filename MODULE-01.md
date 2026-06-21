@@ -1,7 +1,5 @@
 # Module 1 : Introduction à la Virtualisation
 
-> **Auteur :** yugmerabtene
-> **Version :** 2.0
 > **Durée estimée :** 4 heures
 
 ---

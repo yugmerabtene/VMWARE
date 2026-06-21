@@ -1,7 +1,5 @@
 # Module 7 : Migration et Mobilité
 
-> **Auteur :** yugmerabtene
-> **Version :** 2.0
 > **Durée estimée :** 3 heures
 
 ---

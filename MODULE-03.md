@@ -1,7 +1,5 @@
 # Module 3 : Déploiement de vCenter Server
 
-> **Auteur :** yugmerabtene
-> **Version :** 2.0
 > **Durée estimée :** 4 heures
 
 ---

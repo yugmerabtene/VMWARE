@@ -1,7 +1,5 @@
 # Module 9 : Supervision et Performance
 
-> **Auteur :** yugmerabtene
-> **Version :** 2.0
 > **Durée estimée :** 4 heures
 
 ---

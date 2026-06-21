@@ -1,6 +1,5 @@
 # Glossaire VMware vSphere
 
-> **Auteur :** yugmerabtene
 
 ---
 

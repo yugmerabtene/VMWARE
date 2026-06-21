@@ -1,7 +1,5 @@
 # Module 4 : Configuration Réseau Virtuel
 
-> **Auteur :** yugmerabtene
-> **Version :** 2.0
 > **Durée estimée :** 4 heures
 
 ---

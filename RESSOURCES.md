@@ -1,6 +1,5 @@
 # Ressources complémentaires
 
-> **Auteur :** yugmerabtene
 
 ---
 

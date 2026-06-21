@@ -1,7 +1,5 @@
 # Module 5 : Gestion du Stockage
 
-> **Auteur :** yugmerabtene
-> **Version :** 2.0
 > **Durée estimée :** 4 heures
 
 ---

@@ -1,7 +1,5 @@
 # Module 6 : Clusters et Ressources (HA/DRS)
 
-> **Auteur :** yugmerabtene
-> **Version :** 2.0
 > **Durée estimée :** 4 heures
 
 ---

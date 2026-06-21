@@ -1,7 +1,5 @@
 # Module 8 : Sécurité et Conformité
 
-> **Auteur :** yugmerabtene
-> **Version :** 2.0
 > **Durée estimée :** 3 heures
 
 ---

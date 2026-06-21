@@ -1,7 +1,5 @@
 # Module 2 : Installation et Configuration d'ESXi
 
-> **Auteur :** yugmerabtene
-> **Version :** 2.0
 > **Durée estimée :** 4 heures
 
 ---
